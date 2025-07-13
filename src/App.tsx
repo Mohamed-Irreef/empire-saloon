@@ -26,13 +26,13 @@ const AppContent = () => {
   
   return (
     <Routes>
-      <Route path="https://empire-saloon.netlify.app/" element={<Index />} />
-      <Route path="https://empire-saloon.netlify.app/about" element={<About />} />
-      <Route path="https://empire-saloon.netlify.app/services" element={<Services />} />
-      <Route path="https://empire-saloon.netlify.app/gallery" element={<Gallery />} />
-      <Route path="https://empire-saloon.netlify.app/contact" element={<Contact />} />
-      <Route path="https://empire-saloon.netlify.app/payment-success" element={<PaymentSuccess />} />
-      <Route path="https://empire-saloon.netlify.app/payment-failed" element={<PaymentFailed />} />
+      <Route path="/" element={<Index />} />
+      <Route path="/about" element={<About />} />
+      <Route path="/services" element={<Services />} />
+      <Route path="/gallery" element={<Gallery />} />
+      <Route path="/contact" element={<Contact />} />
+      <Route path="/payment-success" element={<PaymentSuccess />} />
+      <Route path="/payment-failed" element={<PaymentFailed />} />
       {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
       <Route path="*" element={<NotFound />} />
     </Routes>
