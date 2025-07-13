@@ -163,7 +163,7 @@ We're here to serve you!`
       {/* Chatbot Toggle Button */}
       <Button
         onClick={() => setIsOpen(!isOpen)}
-        className="fixed bottom-6 left-6 z-50 bg-primary hover:bg-primary/90 text-primary-foreground p-4 rounded-full shadow-lg transition-all duration-300 hover:scale-110 floating-animation"
+        className="fixed bottom-6 h-14 w-14 left-6 z-50 bg-primary hover:bg-primary/90 text-primary-foreground p-4 rounded-full shadow-lg transition-all duration-300 hover:scale-110 floating-animation"
         size="icon"
         aria-label="Open Chatbot"
       >

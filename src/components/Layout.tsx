@@ -113,7 +113,7 @@ const Layout = ({ children }: { children: React.ReactNode }) => {
         href="https://wa.me/918939755670"
         target="_blank"
         rel="noopener noreferrer"
-        className="fixed bottom-6 right-6 z-50 bg-green-500 hover:bg-green-600 text-white p-4 rounded-full shadow-lg transition-all duration-300 hover:scale-110 floating-animation"
+        className="fixed bottom-6 h-14 w-14 flex items-center justify-center right-6 z-50 bg-green-500 hover:bg-green-600 text-white p-4 rounded-full shadow-lg transition-all duration-300 hover:scale-110 floating-animation"
         aria-label="Contact on WhatsApp"
       >
         <MessageCircle size={32} />
@@ -124,23 +124,23 @@ const Layout = ({ children }: { children: React.ReactNode }) => {
         href="https://whatsapp.com/channel/0029Vb6HekbDzgT3C203QL26"
         target="_blank"
         rel="noopener noreferrer"
-        className="fixed bottom-24 right-6 z-50 bg-blue-600 hover:bg-blue-700 text-white p-4 rounded-full shadow-lg transition-all duration-300 hover:scale-110 floating-animation"
+        className="fixed bottom-6 right-24 z-50 bg-blue-600 hover:bg-blue-700 text-white p-4 rounded-full shadow-lg transition-all duration-300 hover:scale-110 floating-animation"
         aria-label="Join WhatsApp Channel"
       >
         <Users size={24} />
       </a>
 
       {/* Scroll to Top Button */}
-      {showScrollTop && (
+      {/* {showScrollTop && (
         <Button
           onClick={scrollToTop}
-          className="fixed bottom-40 right-6 z-50 bg-primary hover:bg-primary/90 text-primary-foreground p-3 rounded-full shadow-lg transition-all duration-300 hover:scale-110"
+          className="fixed bottom-28 right-8 z-50 bg-primary hover:bg-primary/90 text-primary-foreground p-3 rounded-full shadow-lg transition-all duration-300 hover:scale-110"
           size="icon"
           aria-label="Scroll to top"
         >
           <ArrowUp size={20} />
         </Button>
-      )}
+      )} */}
 
       {/* Footer */}
       <footer className="bg-card border-t border-border mt-20">
