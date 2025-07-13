@@ -38,7 +38,7 @@ const Gallery = () => {
       likes: 78
     },
     {
-      src: 'https://images.unsplash.com/photo-1588681664899-f142ff2dc9b1?w=600',
+      src: 'https://images.unsplash.com/photo-1621605815971-fbc98d665033?w=600',
       alt: 'Hair Spa Service',
       category: 'Hair Spa',
       featured: true,
@@ -52,7 +52,7 @@ const Gallery = () => {
       likes: 95
     },
     {
-      src: 'https://images.unsplash.com/photo-1559599746-90d1057df7c6?w=600',
+     src: 'https://images.unsplash.com/photo-1622287162716-f311baa1a2b8?w=600',
       alt: 'Beard Grooming',
       category: 'Beard Care',
       featured: true,
@@ -66,7 +66,7 @@ const Gallery = () => {
       likes: 134
     },
     {
-      src: 'https://images.unsplash.com/photo-1585747333411-29af48d6436a?w=600',
+       src: 'https://images.unsplash.com/photo-1621605815971-fbc98d665033?w=600',
       alt: 'Professional Tools',
       category: 'Equipment',
       featured: false,
@@ -94,21 +94,21 @@ const Gallery = () => {
       likes: 198
     },
     {
-      src: 'https://images.unsplash.com/photo-1520637836862-4d197d17c60a?w=600',
+      src: 'https://images.unsplash.com/photo-1622287162716-f311baa1a2b8?w=600',
       alt: 'Classic Barbering',
       category: 'Haircuts',
       featured: false,
       likes: 176
     },
     {
-      src: 'https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?w=600',
+      src: 'https://images.unsplash.com/photo-1621605815971-fbc98d665033?w=600',
       alt: 'Skincare Treatment',
       category: 'Facials',
       featured: true,
       likes: 213
     },
     {
-      src: 'https://images.unsplash.com/photo-1547992350-6e36ae69ba18?w=600',
+      src: 'https://images.unsplash.com/photo-1622287162716-f311baa1a2b8?w=600',
       alt: 'Hot Towel Service',
       category: 'Grooming',
       featured: false,
@@ -129,14 +129,14 @@ const Gallery = () => {
       likes: 167
     },
     {
-      src: 'https://images.unsplash.com/photo-1594736797933-d0403ba979ab?w=600',
+      src: 'https://images.unsplash.com/photo-1621605815971-fbc98d665033?w=600',
       alt: 'Professional Shaving',
       category: 'Shaving',
       featured: true,
       likes: 145
     },
     {
-      src: 'https://images.unsplash.com/photo-1535530992830-e25d07cfa780?w=600',
+      src: 'https://images.unsplash.com/photo-1622287162716-f311baa1a2b8?w=600',
       alt: 'Head Massage',
       category: 'Massage',
       featured: false,

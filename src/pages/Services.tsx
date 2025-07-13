@@ -42,7 +42,7 @@ const Services = () => {
           price: '₹600',
           description: 'Premium L\'Oreal hair spa treatment',
           features: ['Scalp Analysis', 'Deep Conditioning', 'Steam Treatment', 'Head Massage'],
-          image: 'https://images.unsplash.com/photo-1588681664899-f142ff2dc9b1?w=400'
+          image: 'https://images.unsplash.com/photo-1621605815971-fbc98d665033?w=600',
         },
         {
           name: 'Anti-Dandruff Treatment',
@@ -68,49 +68,49 @@ const Services = () => {
           price: '₹399',
           description: 'Luxurious gold-infused facial treatment',
           features: ['Gold Mask', 'Anti-aging', 'Skin Brightening', 'Premium Care'],
-          image: 'https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?w=400'
+          image: 'https://images.unsplash.com/photo-1503951914875-452162b0f3f1?w=600'
         },
         {
           name: 'Fruit Facial',
           price: '₹699',
           description: 'Natural fruit-based facial therapy',
           features: ['Fruit Extracts', 'Vitamin Boost', 'Natural Glow', 'Skin Nourishment'],
-          image: 'https://images.unsplash.com/photo-1465146344425-f00d5f5c8f07?w=400'
+          image:  'https://images.unsplash.com/photo-1503951914875-452162b0f3f1?w=600'
         },
         {
           name: 'ASB Papaya Facial',
           price: '₹799',
           description: 'Advanced papaya enzyme facial',
           features: ['Enzyme Therapy', 'Skin Renewal', 'Brightening', 'Anti-aging'],
-          image: 'https://images.unsplash.com/photo-1482881497185-d4a9ddbe4151?w=400'
+          image: 'https://images.unsplash.com/photo-1622287162716-f311baa1a2b8?w=400'
         },
         {
           name: 'ASB Skin Whitening',
           price: '₹999',
           description: 'Professional skin whitening treatment',
           features: ['Pigmentation Removal', 'Skin Lightening', 'Even Tone', 'UV Protection'],
-          image: 'https://images.unsplash.com/photo-1523712999610-f77fbcfc3843?w=400'
+          image:  'https://images.unsplash.com/photo-1503951914875-452162b0f3f1?w=600'
         },
         {
           name: 'Raga Strawberry',
           price: '₹1799',
           description: 'Premium Raga strawberry facial',
           features: ['Strawberry Extracts', 'Deep Hydration', 'Anti-oxidants', 'Luxury Care'],
-          image: 'https://images.unsplash.com/photo-1500673922987-e212871fec22?w=400'
+          image: 'https://images.unsplash.com/photo-1622287162716-f311baa1a2b8?w=400'
         },
         {
           name: 'Raga Platinum',
           price: '₹2299',
           description: 'Ultimate platinum facial experience',
           features: ['Platinum Infusion', 'Advanced Anti-aging', 'Skin Firming', 'Premium Results'],
-          image: 'https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=400'
+          image:  'https://images.unsplash.com/photo-1503951914875-452162b0f3f1?w=600'
         },
         {
           name: 'La Mariniere',
           price: '₹2999',
           description: 'Exclusive French luxury facial',
           features: ['French Techniques', 'Luxury Products', 'Complete Rejuvenation', 'Premium Experience'],
-          image: 'https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=400'
+          image: 'https://images.unsplash.com/photo-1621605815971-fbc98d665033?w=400'
         },
         {
           name: 'Skin Miracle Facial',
@@ -157,7 +157,7 @@ const Services = () => {
           price: '₹649',
           description: 'Advanced L\'Oreal innovation color',
           features: ['Latest Technology', 'Superior Coverage', 'Lasting Color', 'Professional Results'],
-          image: 'https://images.unsplash.com/photo-1588681664899-f142ff2dc9b1?w=400'
+          image: 'https://images.unsplash.com/photo-1621605815971-fbc98d665033?w=400'
         }
       ]
     },
@@ -176,7 +176,7 @@ const Services = () => {
           price: '₹200',
           description: 'Pure coconut oil scalp massage',
           features: ['Natural Moisturizing', 'Hair Strengthening', 'Scalp Health', 'Shine Enhancement'],
-          image: 'https://images.unsplash.com/photo-1482881497185-d4a9ddbe4151?w=400'
+          image: 'https://images.unsplash.com/photo-1621605815971-fbc98d665033?w=400'
         },
         {
           name: 'Olive Oil',
@@ -190,7 +190,7 @@ const Services = () => {
           price: '₹250',
           description: 'Nourishing almond oil massage',
           features: ['Vitamin E Rich', 'Hair Growth', 'Scalp Nourishment', 'Softness'],
-          image: 'https://images.unsplash.com/photo-1523712999610-f77fbcfc3843?w=400'
+          image: 'https://images.unsplash.com/photo-1622287162716-f311baa1a2b8?w=400'
         }
       ]
     },
@@ -202,14 +202,14 @@ const Services = () => {
           price: '₹399',
           description: 'Premium Raga de-tan treatment',
           features: ['Tan Removal', 'Skin Brightening', 'Even Tone', 'Instant Results'],
-          image: 'https://images.unsplash.com/photo-1616394584738-fc6e612e71b9?w=400'
+          image: 'https://images.unsplash.com/photo-1622287162716-f311baa1a2b8?w=400'
         },
         {
           name: 'D-Tan',
           price: '₹349',
           description: 'Professional de-tan therapy',
           features: ['Sun Damage Repair', 'Skin Restoration', 'Natural Glow', 'Gentle Treatment'],
-          image: 'https://images.unsplash.com/photo-1465146344425-f00d5f5c8f07?w=400'
+          image: 'https://images.unsplash.com/photo-1622287162716-f311baa1a2b8?w=400'
         }
       ]
     },
@@ -228,14 +228,14 @@ const Services = () => {
           price: '₹99',
           description: 'Relaxing facial massage',
           features: ['Stress Relief', 'Blood Circulation', 'Muscle Relaxation', 'Rejuvenation'],
-          image: 'https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=400'
+          image: 'https://images.unsplash.com/photo-1622287162716-f311baa1a2b8?w=400'
         },
         {
           name: 'Milk Massage',
           price: '₹199',
           description: 'Nourishing milk-based massage',
           features: ['Skin Softening', 'Hydration', 'Natural Glow', 'Gentle Care'],
-          image: 'https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=400'
+          image: 'https://images.unsplash.com/photo-1621605815971-fbc98d665033?w=400'
         },
         {
           name: 'Fruit Bleach',
@@ -249,14 +249,14 @@ const Services = () => {
           price: '₹299',
           description: 'Enhanced glow bleaching treatment',
           features: ['Instant Glow', 'Skin Lightening', 'Radiance Boost', 'Professional Results'],
-          image: 'https://images.unsplash.com/photo-1523712999610-f77fbcfc3843?w=400'
+          image: 'https://images.unsplash.com/photo-1503951914875-452162b0f3f1?w=600'
         },
         {
           name: 'Gold Bleach',
           price: '₹399',
           description: 'Luxury gold-infused bleaching',
           features: ['Gold Particles', 'Premium Treatment', 'Skin Brightening', 'Luxury Experience'],
-          image: 'https://images.unsplash.com/photo-1482881497185-d4a9ddbe4151?w=400'
+          image: 'https://images.unsplash.com/photo-1621605815971-fbc98d665033?w=400'
         }
       ]
     },
@@ -275,7 +275,7 @@ const Services = () => {
           price: '₹899',
           description: 'Grooming and facial combo',
           features: ['Professional Haircut', 'D-Tan Treatment', 'Papaya Facial', 'Complete Care'],
-          image: 'https://images.unsplash.com/photo-1621605815971-fbc98d665033?w=400'
+          image: 'https://images.unsplash.com/photo-1503951914875-452162b0f3f1?w=600'
         },
         {
           name: 'Haircut + Raga D-Tan + Skin Whitening',
@@ -289,14 +289,14 @@ const Services = () => {
           price: '₹1499',
           description: 'Luxury grooming experience',
           features: ['Expert Haircut', 'Advanced D-Tan', 'Wine Facial', 'Premium Service'],
-          image: 'https://images.unsplash.com/photo-1588681664899-f142ff2dc9b1?w=400'
+          image: 'https://images.unsplash.com/photo-1621605815971-fbc98d665033?w=400'
         },
         {
           name: 'Haircut + Raga D-Tan + Raga Gold Facial',
           price: '₹1999',
           description: 'Ultimate grooming package',
           features: ['Precision Haircut', 'Raga D-Tan', 'Gold Facial', 'Luxury Treatment'],
-          image: 'https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?w=400'
+          image: 'https://images.unsplash.com/photo-1503951914875-452162b0f3f1?w=600'
         }
       ]
     }
