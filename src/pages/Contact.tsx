@@ -72,7 +72,7 @@ Please respond to the customer promptly.`;
     {
       icon: MapPin,
       title: 'Visit Us',
-      detail: 'Your Location Address Here, City - 000000',
+      detail: 'Sithalapakkam, Chennai-600126',
       action: null
     },
     {

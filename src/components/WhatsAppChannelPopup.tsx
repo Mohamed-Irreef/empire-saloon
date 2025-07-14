@@ -101,12 +101,12 @@ const WhatsAppChannelPopup = () => {
           </div>
 
           {/* Close Button */}
-          <button
+          {/* <button
             onClick={handleClose}
             className="absolute top-4 right-4 text-white hover:bg-white/20 p-2 rounded-full transition-colors"
           >
             <X size={16} />
-          </button>
+          </button> */}
         </div>
       </DialogContent>
     </Dialog>
