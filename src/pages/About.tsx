@@ -210,7 +210,7 @@ const About = () => {
                   </h4>
                   <div className="flex space-x-4">
                     <a 
-                      href="https://instagram.com/empiremensaloon" 
+                      href="https://www.linkedin.com/in/-mohamed-ireef-s-23-/" 
                       target="_blank" 
                       rel="noopener noreferrer"
                       className="bg-card border border-border p-3 rounded-full hover:border-primary hover:bg-primary hover:text-primary-foreground transition-all duration-300 hover:scale-110"
@@ -218,7 +218,7 @@ const About = () => {
                       <Instagram size={24} />
                     </a>
                     <a 
-                      href="https://facebook.com/empiremensaloon" 
+                      href="https://www.linkedin.com/in/-mohamed-ireef-s-23-/" 
                       target="_blank" 
                       rel="noopener noreferrer"
                       className="bg-card border border-border p-3 rounded-full hover:border-primary hover:bg-primary hover:text-primary-foreground transition-all duration-300 hover:scale-110"
@@ -226,7 +226,7 @@ const About = () => {
                       <Facebook size={24} />
                     </a>
                     <a 
-                      href="https://linkedin.com/in/rajeshkumar" 
+                      href="https://www.linkedin.com/in/-mohamed-ireef-s-23-/" 
                       target="_blank" 
                       rel="noopener noreferrer"
                       className="bg-card border border-border p-3 rounded-full hover:border-primary hover:bg-primary hover:text-primary-foreground transition-all duration-300 hover:scale-110"
