@@ -193,7 +193,7 @@ const Layout = ({ children }: { children: React.ReactNode }) => {
               <div className="space-y-2 text-muted-foreground">
                 <p>📞 +91 89397 55670</p>
                 <p>📧 contact@empiresaloon.com</p>
-                <p>📍 Your Location Here</p>
+                <p>📍 Sithalapakkam,Chennai-600126</p>
                 <p>🕒 Mon-Sun: 9AM-9PM</p>
               </div>
             </div>

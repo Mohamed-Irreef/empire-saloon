@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 import Layout from '@/components/Layout';
 import { Clock, Users, Award, Shield, Heart, Target, Instagram, Facebook, Linkedin } from 'lucide-react';
 import { Card, CardContent } from '@/components/ui/card';
-import ownerPhoto from '@/assets/owner-photo.jpg';
+import ownerPhoto from '@/assets/owner.jpg';
 
 const About = () => {
   const [counters, setCounters] = useState({
