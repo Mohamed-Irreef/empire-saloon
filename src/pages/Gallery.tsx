@@ -303,12 +303,7 @@ const Gallery = () => {
               </div>
               
               {/* Close Button */}
-              <button
-                onClick={() => setSelectedImage(null)}
-                className="absolute top-4 right-4 bg-black/60 hover:bg-black/80 text-white p-2 rounded-full transition-colors backdrop-blur-sm"
-              >
-                <X size={20} />
-              </button>
+              
             </div>
           )}
         </DialogContent>
