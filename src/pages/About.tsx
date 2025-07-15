@@ -182,7 +182,7 @@ const About = () => {
               <div className="space-y-8">
                 <div>
                   <h3 className="text-3xl md:text-4xl font-playfair font-bold text-foreground mb-2">
-                    Rajesh Kumar
+                    Wasim Khan
                   </h3>
                   <p className="text-xl text-primary font-semibold mb-6">
                     Founder & Head Stylist
